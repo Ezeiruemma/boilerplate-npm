@@ -1,6 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "ezeiru emma",
+	"description": "a tutorial to node js",
+	"keywords": ["freecodecamp", "fun", "consistent"],
+	"license": "MIT",
+	"version": "1.4.7",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
